@@ -1,4 +1,4 @@
-🎓 Recent UCLA Data Science graduate showcasing a portfolio of projects for potential employers.
+🎓 Recent UCLA M.S. Data Science graduate showcasing a portfolio of projects for potential employers.
 
 📊 Passionate about turning data into meaningful insights and solving complex problems through data-driven approaches.
 
