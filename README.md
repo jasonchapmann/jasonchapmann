@@ -10,6 +10,6 @@
 
 🌟 Collaborative mindset and always eager to learn from and contribute to the developer community. Let's connect and explore exciting opportunities!
 
-🌐 Check out my portfolio for a comprehensive view of my projects and skills. [Link in the "Website" section below.](https://jasonchapmann.wordpress.com)
+🌐 Check out my portfolio for a comprehensive view of my projects and skills. [Portfolio](https://jasonchapmann.wordpress.com)
 
 📫 Reach me at jasonchap13@icloud.com or connect with me on LinkedIn. Links in the "Contact" section below.
